@@ -1,0 +1,2 @@
+void prefix_scan(float*, float*, int);
+void addFirstHalf(float *in, float preSum, int size);

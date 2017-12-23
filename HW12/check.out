@@ -1,0 +1,11 @@
+problem1 built successfully +1
+Problem 1  with args='128' PASSED +4
+Problem 1  with args='512' PASSED +4
+Problem 1  with args='1024' PASSED +4
+found problem1.pdf, Problem 1 PASSED +1
+problem2 built successfully +1
+Problem 2  with args='128' PASSED +4
+Problem 2  with args='512' PASSED +4
+Problem 2  with args='727' PASSED +4
+found problem2.pdf, Problem 2 PASSED +1
+grade = 28/28 (100%)

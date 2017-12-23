@@ -1,0 +1,13 @@
+JerryHu1994: problem1 built successfully +1
+JerryHu1994: Problem 1  with args='128' PASSED +4
+JerryHu1994: Problem 1  with args='512' PASSED +4
+JerryHu1994: Problem 1  with args='1024' PASSED +4
+JerryHu1994: found problem1.pdf, Problem 1 PASSED +1
+JerryHu1994: problem2 built successfully +1
+JerryHu1994: Problem 2  with args='128' PASSED +4
+JerryHu1994: Problem 2  with args='512' PASSED +4
+JerryHu1994: Problem 2  with args='727' PASSED +4
+JerryHu1994: found problem2.pdf, Problem 2 PASSED +1
+JerryHu1994: problem3 built successfully +1
+JerryHu1994: Problem 3 FAILED. Expected 6, got '8' +3
+JerryHu1994: grade = 32/34 (94%)
