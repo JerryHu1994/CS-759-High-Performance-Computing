@@ -1,0 +1,7 @@
+a) 8 bytes
+b) 0x7fffffffd888
+c) 0x7fffffffd887
+d) 10
+e) 266
+f) After line 16, the arr[0] is 10 because p points to arr and the first element of arr is set to d with value 10, with binary representation as 00001010. After the line 18 changes the value of the second byte in arr to 1, the binary representation becomes 00000001 00001010, which equals 266 in decimal. So that the overall value of arr[0] changes.
+
